@@ -26,7 +26,7 @@ Hi 👋,
 -->
 
 # 💫 About Me:
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Ayush+Susheel;Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Kumari+Archana;Welcome+to+my+profile!)](https://git.io/typing-svg)
 <br>Insightful postgraduate student looking forward to join a reputed organization in order to utilize my learning, skills and<br>work for the betterment of the company where I can serve as a valuable person
 
 
