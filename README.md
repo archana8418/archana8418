@@ -6,7 +6,7 @@
 Hi 👋,
 <br>I'm Kumari Archana<br>  
 <h6> 
-<br>Insightful postgraduate student looking forward to join a reputed organization in order to utilize my learning, skills and
+<br>Insightful postgraduate student  looking forward to join a reputed organization in order to utilize my learning, skills and
 <br>work for the betterment of the company where I can serve as a valuable person<br>
 </h6>
 </b></i><h2>
