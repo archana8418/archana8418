@@ -14,7 +14,7 @@ Hi 👋,
 !--
 **archana8418/archana8418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --
 
-### 🔭 Maintaing an Open Source Contribution Profile which consists 
+### 🔭 Maintaing an Open Source Contribution Profile which consists
 ###    of some repos (development,installation issues etc...) <br> 
 
 ### 🌱 Completed B.Tech in CSE 
